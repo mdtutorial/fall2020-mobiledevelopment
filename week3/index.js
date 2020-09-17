@@ -11,4 +11,4 @@ const a = new Article (
 );
 
 // Shows its HTML on the console
-console.log(a.render() );
+console.log("Hello!");
